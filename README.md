@@ -21,17 +21,15 @@
 
 ---
 
-## 🏆 GitHub Profile Stats
+## 📈 Commit Streak (LIVE)
 
 <div align="center">
 
-![Sathursan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksathu07&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ksathu07&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ksathu07&theme=react&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=F8FAFC&dates=94A3B8)
 
 </div>
 
-## 📈 Commits Activity Graph (LIVE)
+## 📊 Commits Activity Graph (LIVE)
 
 <div align="center">
 
@@ -44,6 +42,24 @@
 <div align="center">
 
 ![snake gif](https://raw.githubusercontent.com/ksathu07/ksathu07/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏥 **NEXUS.AI Healthcare Platform** | 📰 **Fake News Analyzer** |
+|---|---|
+| AI healthcare coordination: multi-role dashboards, medication tracking, risk prediction & SOS | RoBERTa-powered credibility scoring with a full training pipeline |
+| [![Frontend](https://img.shields.io/badge/Frontend-38BDF8?style=for-the-badge&logo=react&logoColor=white)](https://github.com/ksathu07/nexus-ai-frontend) [![Backend](https://img.shields.io/badge/Backend-22C55E?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/ksathu07/ai-health-coordinator) [![Live Demo](https://img.shields.io/badge/Live%20Demo-E11D48?style=for-the-badge&logo=github-pages&logoColor=white)](https://ksathu07.github.io/nexus-ai-frontend/) | [![Repo](https://img.shields.io/badge/Repo-22C55E?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ksathu07/AI-Fake-News-Credibility-Analyzer) |
+
+| 🎵 **Song Guessing Game** | 🎓 **College Health Dashboard** |
+|---|---|
+| Multi-language music quiz game (EN/HI/TA/TE) with Node backend | Next.js + shadcn/ui analytics dashboard |
+| [![Repo](https://img.shields.io/badge/Repo-22C55E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/ksathu07/song-guessing-game) [![Live Demo](https://img.shields.io/badge/Live%20Demo-E11D48?style=for-the-badge&logo=github-pages&logoColor=white)](https://ksathu07.github.io/song-guessing-game/) | [![Repo](https://img.shields.io/badge/Repo-22C55E?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ksathu07/college-health-dashboard) [![Live Demo](https://img.shields.io/badge/Live%20Demo-E11D48?style=for-the-badge&logo=github-pages&logoColor=white)](https://ksathu07.github.io/college-health-dashboard/) |
 
 </div>
 
@@ -65,14 +81,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-
-</div>
-
-## 🏅 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ksathu07&theme=radical&no-frame=true&row=2&column=4)
 
 </div>
 
