@@ -12,11 +12,12 @@
 
 ## 🧑‍💻 About Me
 
-- 👨‍🎓 **Final-year student** passionate about **AI, Machine Learning & Full-Stack Development**
+- 👨‍🎓 **B.Tech student (AI & ML)** passionate about **AI, Machine Learning & Full-Stack Development**
 - 🏥 Built **NEXUS.AI** — an AI-powered healthcare coordination platform (React + Node + Flutter)
 - 📰 Created an **AI Fake News Credibility Analyzer** using RoBERTa
+- 🚀 Built a **LinkedIn automation suite** — OAuth API, browser bot & local-LLM content pipeline (Python)
+- 🌱 Building **lifeOS**, a Flutter career-twin app with skill graphs & growth predictions
 - 📚 Completed a **Zero to Infinity** series: frontend, advanced full-stack, data analytics & cybersecurity
-- 🌱 Currently learning: advanced ML pipelines, cloud deployment & system design
 - 📫 Reach me: **ksathu.07@gmail.com**
 
 ---
@@ -60,6 +61,16 @@
 |---|---|
 | Multi-language music quiz game (EN/HI/TA/TE) with Node backend | Next.js + shadcn/ui analytics dashboard |
 | [![Repo](https://img.shields.io/badge/Repo-22C55E?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/ksathu07/song-guessing-game) [![Live Demo](https://img.shields.io/badge/Live%20Demo-E11D48?style=for-the-badge&logo=github-pages&logoColor=white)](https://ksathu07.github.io/song-guessing-game/) | [![Repo](https://img.shields.io/badge/Repo-22C55E?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ksathu07/college-health-dashboard) [![Live Demo](https://img.shields.io/badge/Live%20Demo-E11D48?style=for-the-badge&logo=github-pages&logoColor=white)](https://ksathu07.github.io/college-health-dashboard/) |
+
+| 🚀 **LinkedIn Automation Suite** | 🌱 **lifeOS Career Twin** |
+|---|---|
+| LinkedIn post automation: OAuth API, browser bot & local-LLM content generator (Python) | Flutter career-twin app: skill graphs, growth predictions & opportunity matching |
+| [![Repo](https://img.shields.io/badge/Repo-22C55E?style=for-the-badge&logo=python&logoColor=white)](https://github.com/ksathu07/linkedin-automation) | [![Repo](https://img.shields.io/badge/Repo-22C55E?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/ksathu07/lifeos) |
+
+| 🩺 **AI Diagnosis App** | 🧑‍💻 **Live Portfolio & CV Agent** |
+|---|---|
+| Healthcare diagnosis hackathon prototype (Smart India internal) — NX + TypeScript monorepo | CLARA: a data-driven Next.js portfolio driven by a single verified profile.json |
+| [![Repo](https://img.shields.io/badge/Repo-22C55E?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/ksathu07/ai-diagnosis-app) | [![Repo](https://img.shields.io/badge/Repo-22C55E?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/ksathu07/live-portfolio) |
 
 </div>
 
